@@ -1,0 +1,9 @@
+ISSUE1013
+ISSUE=1013
+PROJ=3
+walscm@rs.com,afinley@rs.com,cwhite@aldon.com,dmagid@aldon.com,alemay@aldon.com,jbaumgarten@aldon.com,yhchong@rs.com,pchampalle@rs.com
+TESTCASE0015
+"PersonalBanking/CustomerMaster/DataSearch(1.00)"
+"PersonalBanking/CustomerMaster/BuildQUA(1.00)" 
+"PersonalBanking/CustomerMaster/BuildPDN(1.00)" 
+C:\DataSearch

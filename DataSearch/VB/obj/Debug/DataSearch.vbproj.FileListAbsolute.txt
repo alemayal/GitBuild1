@@ -1,0 +1,11 @@
+C:\development\DataSearch\VB\bin\Debug\DataSearch.exe.config
+C:\development\DataSearch\VB\bin\Debug\DataSearch.exe
+C:\development\DataSearch\VB\bin\Debug\DataSearch.pdb
+C:\development\DataSearch\VB\bin\Debug\DataSearch.xml
+C:\development\DataSearch\VB\obj\Debug\DataSearch.CustomersForm.resources
+C:\development\DataSearch\VB\obj\Debug\DataSearch.DataSearchForm.resources
+C:\development\DataSearch\VB\obj\Debug\DataSearch.Resources.resources
+C:\development\DataSearch\VB\obj\Debug\DataSearch.exe
+C:\development\DataSearch\VB\obj\Debug\DataSearch.xml
+C:\development\DataSearch\VB\obj\Debug\DataSearch.pdb
+C:\development\DataSearch\VB\obj\Debug\DataSearch.vbproj.GenerateResource.Cache
