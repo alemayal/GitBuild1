@@ -1,1 +1,5 @@
-/SEGITWKDIR/GitBuild1/FINANCE/HR/BASE/PDN/QDDSSRC/MASTER.PF
+     A          R ACTGLP                    TEXT('MINIMUM PF FIL')
+     A            FIELD1         1
+     A            FIELD2         2
+     A            FIELD3         3
+     A          K FIELD1
