@@ -1,0 +1,4 @@
+
+[repository]
+	instance = aldmo1
+	release = Retail/GitBuild1/GitBuild1Base(1.0)::$GitBuild1
