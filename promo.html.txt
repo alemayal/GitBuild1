@@ -56,7 +56,7 @@ All Rights Reserved * Licensed Materials - Property of IBM
 <td bgcolor="#DCEBCD"><p class="tips">German........ . </td>
 <td bgcolor="#DCEBCD"><p class="tips">Chinese </td>
 -->
-               			<td bgcolor="#DCEBCD"><p class="tips">Tip of the week: Prepare your pond for summer. Preserve extra grass seed by keeping it dry. Tape boxes and bags closed, or seal them into plastic bags. Be sure to remove extra air from the bags. Store all seed in a cool, dry area such as a garage or basement. </td>
+               			<td bgcolor="#DCEBCD"><p class="tips">Tip of the week: Prepare your pond for winter. Preserve extra grass seed by keeping it dry. Tape boxes and bags closed, or seal them into plastic bags. Be sure to remove extra air from the bags. Store all seed in a cool, dry area such as a garage or basement. </td>
               </tr>
             </table>
           </td>
