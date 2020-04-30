@@ -5,7 +5,7 @@ foreach($GLOBALS as $arraykey=>$arrayvalue){if($arraykey[0]!='_' && $arraykey!="
 
 //	Program Name:		custmaint.php
 //	Program Title:		Maintain customer master file
-//	Created by:			ANDYF
+//	Created by:			ANDYFAF
 //	Task:	     		ISSUE358
 //	Template family:	Idaho
 //	Template name:		SQL Page at a time maintenance
