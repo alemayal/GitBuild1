@@ -1,4 +1,4 @@
-<%-- Tax Update AF --%>
+<%-- Tax Update for SS-40 --%>
 			
 <%@ taglib uri="http://java.sun.com/portlet" prefix="portlet" %>
 <portlet:defineObjects />
