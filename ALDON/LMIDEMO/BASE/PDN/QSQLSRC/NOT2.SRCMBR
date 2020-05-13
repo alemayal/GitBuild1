@@ -1,0 +1,14 @@
+/* Creating view CORPDATA.EMPVW */
+
+CREATE VIEW EMPVW SELECT * 
+
+   FROM EMP AS EMP
+
+   WHERE EMP.EMPNO = '000021';
+
+
+
+/* Setting label text for CORPDATA.EMPVW */
+
+LABEL ON TABLE EMPVWW IS 'Employee View' ;
+

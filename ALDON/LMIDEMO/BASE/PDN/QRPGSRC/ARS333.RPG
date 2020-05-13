@@ -1,0 +1,13 @@
+     H*
+     H********************************************************************
+     H***   ARS333
+     H***   CHANGE LOG - CHANGES FOR EOY
+     H***              - YHCHONG
+     H***              - ISSUE633
+     H********************************************************************
+     FMASTER  IF  E           K        DISK
+     FARS333DSIF  E                    WORKSTN
+     C                     READ ARS333DS                 88
+     C                     READ MASTER                   99
+     C                     MOVE '1'       *INLR
+     C                     MOVE '0'       *INLR

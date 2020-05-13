@@ -1,0 +1,26 @@
+     H*
+     H********************************************************************
+     H********************************************************************
+     H**   REGULAR CHANGE -    FIXES FOR APRIL 10 2020
+     H**
+     H** CHANGE BY BILL SHUBIN
+     H** CHANGE ON 2020-04-09
+     H** JAVA CODE
+     H********************************************************************
+     H********************************************************************
+     H********************************************************************
+     FMASTERL1IF  E           K        DISK
+     F            ACTGLP                            KRENAMERPGID2
+     C           *ENTRY    PLIST
+     C                     PARM           CHECK   10
+     C                     READ MASTERL1                 90
+     C                     READ MASTERL1                 90
+     C*
+     C           CHECK     IFGT 1
+     C                     GOTO ENDFIL
+     C                     ENDIF
+     C*
+     C*
+     C           ENDFIL    TAG
+     C                     MOVE '1'       *INLR
+     C                     RETRN

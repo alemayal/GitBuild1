@@ -1,0 +1,3 @@
+     A          R ACTGLP                    TEXT('Minimum PF')
+     A            FIELD1         1          TEXT('One  field')
+     A            FIELD2         1          TEXT('Two  field')
