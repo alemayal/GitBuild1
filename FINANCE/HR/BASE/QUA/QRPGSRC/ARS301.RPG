@@ -1,1 +1,28 @@
-/SEGITWKDIR/GitBuild1/FINANCE/HR/BASE/PDN/QRPGSRC/ARS301.RPG
+     H*********************************************************************
+     H** A CHANGE FOR NORMAL USAGE TEST
+     H**   ARS301 MODIF CHECKOUT NORMAL                                  *
+     H** INSERT BLANK LINE FOR UPDATE  EMERGENCY UPDATE
+     H** MODIF NORMALE
+     H** MODIF NORMALE AVANT EMERGENCY LE 17/04/2019 PM+
+     H** MODIF EN URGENCE reelle le 17/04/2019 PM+
+     H** Modif pendant le Merge
+     H** MODIF DE CHARLES EN PARALLELE
+     H** MODIF DE PCHAMPAL EN PARALLEL
+     FMASTERL1IF  E           K        DISK
+     F            ACTGLP                            KRENAMERPGID2
+     C           *ENTRY    PLIST
+     C                     PARM           CHECK   10
+     C           CHECK     IFGT 0
+     C                     ENDIF
+     C                     READ MASTERL1                 90
+     C           *IN90     IFNE '5'
+     C                     GOTO ENDFIL
+     C                     ENDIF
+     C                     READ MASTERL1                 90
+     C           CHECK     IFLT 0
+     C                     GOTO ENDFIL
+     C                     ENDIF
+     C           ENDFIL    TAG
+      *                    SETON                     LR
+     C                     RETRN
+      *
